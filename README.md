@@ -4,8 +4,8 @@ This Repository contains the git laboratory assignment for CS 319 (Object-Orient
 
 
 ## Lab Content:
-- This assignment is aimed to perform several actions on git such as fork, push, pull, resolve conflicts, and merge request.
-
+- This assignment is aimed to perform several actions on git such as fork, push, pull, resolve conflicts, and merge request
+- A simple calculator is used while doing the git lab assignment
 
 
 #### Notes:
